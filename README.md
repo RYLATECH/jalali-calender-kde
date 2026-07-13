@@ -31,7 +31,7 @@ Just the date — right where you need it.
 
 ### 🔹 Clone
 
-git clone https://github.com/your-username/jalali-tray.git  
+git clone https://github.com/RYLATECH/jalali-calender-kde/jalali-tray.git  
 cd jalali-tray
 
 ---
