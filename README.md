@@ -1,12 +1,6 @@
 # 🗓️ Jalali Tray Indicator  
 > Minimal. Clean. Persian. 🇮🇷
 
----
-
-<img width="193" height="132" alt="image" src="https://github.com/user-attachments/assets/2b098759-4f92-4174-adee-7fd65516d32b" />
-
----
-
 ## ✨ Overview
 
 A tiny system tray app that shows the **Jalali (Persian) date** directly in your panel.
@@ -19,7 +13,7 @@ Just the date — right where you need it.
 ## ⚡ Features
 
 - 🟢 Shows **current day** (like `19`) in system tray  
-- 🖱 Click → full date: `19 Tir 1405`  
+- 🖱 Right Click → full date: `19 Tir 1405`  
 - 🔄 Auto-updates every day  
 - 🧩 Works on **KDE & GNOME**  
 - 🪶 Super lightweight  
@@ -28,7 +22,8 @@ Just the date — right where you need it.
 
 ## 📸 Demo
 
-![demo](./assets/demo.png)
+<img width="193" height="132" alt="demo image" src="https://github.com/user-attachments/assets/2b098759-4f92-4174-adee-7fd65516d32b" />
+
 
 ---
 
